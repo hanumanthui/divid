@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Divid</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_share">Settings</string>
+    <string name="title_activity_page_view">Divid</string>
+    <string name="app_id">904707919580720</string>
+    <string name="loginFacebookButton">fbLogin</string>
+    <string name="title_activity_login">Divid</string>
+    <string name="title_activity_registration">RegistrationActivity</string>
+    <string name="title_activity_facebook">FacebookActivity</string>
+    <string name="btn_logout_from_google">Logout from Google</string>
+    <string name="btn_revoke_access">Revoke Access</string>
+    <string name="title_activity_gmail">GmailActivity</string>
+
+</resources>
